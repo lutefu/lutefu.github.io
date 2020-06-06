@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       did you fall for a shooting star?
-email:       lutefu@yeah.net
-description: it's a terrible love and i'm walking in
+title:       "did you fall for a shooting star"
+email:       "lutefu@yeah.net"
+description: "it's a terrible love and i'm walking in"
 baseurl:     
-url:         https://lutefu.github.io/
+url:         "https://lutefu.github.io/"
 twitter:     
 github:      
-instagram:   mywakeupcall
+instagram:   "mywakeupcall"
 facebook:    
 
 markdown:  kramdown
