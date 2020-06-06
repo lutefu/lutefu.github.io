@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Type
-email:       ''
-description: ''
+title:       空潭泻春
+email:       'lutefu@yeah.net'
+description: 'it's a terrible love and i'm walking in'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
-instagram:   ''
+instagram:   'mywakeupcall'
 facebook:    ''
 
 markdown:  kramdown
