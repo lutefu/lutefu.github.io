@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/pages/about.jpeg'
+image: 'https://wx2.sinaimg.cn/mw690/620fadbcly1gfiiicd3jdj21kw0pz3zs.jpg'
 ---
 
 **About me?**
