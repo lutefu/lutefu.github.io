@@ -58,11 +58,6 @@
             Tags</span></a>
       </li>
     
-      <li class="barShow-item">
-        <a href="/categories"><span>
-            Categories</span></a>
-      </li>
-    
     
       <li class="barShow-item">
         <a class="head-aboutLink" href="/about">
@@ -76,7 +71,7 @@
   <header class="post-head">
     <h1 class="post-title">
       <a class="title" href="/uncategorized/hello-world-1">
-        hello world
+        hello word
       </a>
     </h1>
   </header>
@@ -87,11 +82,17 @@
     </div>
     <div class="post-tag">
       
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/mess/" rel="tag">mess</a></li></ul>
+
     </div>
   </div>
   <div class="article-entry" itemprop="articleBody">
     
-    
+    <p>2022年6月23日</p>
+<p>花了一个下午+晚上配置我的个人博客</p>
+<p>太难了太难了</p>
+<p>至少确认了即使回到2016年我被计算机系录取我也学不好！哈哈哈</p>
+
     
   </div>
 </article>
